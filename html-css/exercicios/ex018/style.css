@@ -1,0 +1,23 @@
+@charset "UTF-8"
+
+
+@font-face {
+    font-family: 'Typew';
+    src: url('fontes/JMH Typewriter.otf') format('opentype');
+    /* Tipos de Format
+    - opentype (otf)
+    - truetype (ttf)
+    - embed-opentype
+    - truetype-aat (Apple Advanced Typography)
+    - svg
+    */
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+
+h1 {
+    font-family: 'Typew';
+    font-size: 3em;
+}
